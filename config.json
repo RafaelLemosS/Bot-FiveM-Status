@@ -1,0 +1,27 @@
+{
+  "webhooks": {
+    "erros": {
+      "id": "1209899975178453022",
+      "token": "35jomhbI3JPS44Yux6xpPGFfl2FCJrpqpe7zrMjaOpfuEx1cnm5jJTEOdC-wteLFxw7p"
+    },
+    "ligou": {
+      "id": "1209899825395404852",
+      "token": "3kfcMlg2Usyi99HsYwDE61X62YlzPUguMkSMKaArqhZYjUg-jplmYQbOYtJcrQdRWiGF"
+    },
+    "logsbot": {
+      "id": "1209900152152658040",
+      "token": "6dAd2-TdXkj0sHNTUf7meK7IXSQ7U9tYboJAxGHgOA9KKIoleFXOPE_CszBmrs8TvWQZ"
+    }
+  },
+  "canais": {
+    "status": "1231603026385702942",
+    "alerta": "1238909031481872534"
+  },
+  "emojis": {
+    "online": "<:Online:1213496198384713778>",
+    "offline": "<:Aviso1:1210325592486969435>"
+  },
+  "embeds": {
+    "cor": "#00bee8"
+  }
+}
