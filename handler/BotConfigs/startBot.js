@@ -26,7 +26,7 @@ module.exports = async (client) => {
 
   client.on("ready", async () => {
     console.log("Bot Online!")
-    let status = "Monitorando o FiveM";
+    let status = "Verificando o FiveM";
 
     if (status) {
       client.user.setPresence({
