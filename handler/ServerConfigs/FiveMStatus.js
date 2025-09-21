@@ -39,7 +39,7 @@ module.exports = (client) => {
     const cfxServerStatus = componentes[11];
 
     const emojiRede = status === "Online" ? config.emojis.online : config.emojis.offline;
-    const msgStatus = status === "Online" ? "diff\n+ ONLINE" : `fix\n${status}`;
+    const msgStatus = status === "Online" ? "diff\n+ 🟢 ONLINE" : `fix\n🔴 ${status}`;
 
     await updateMsg({
       canalId: config.canais.status,
