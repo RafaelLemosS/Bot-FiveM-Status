@@ -19,6 +19,7 @@ module.exports = (client) => {
       const cfxre = new CFXStatus();
       const { status, components } = await cfxre.currentStatus;
       const statusText = status.indicator === "none" ? "Online" : status.indicator;
+
       enviarStatus(
         statusText,
         status.description,
